@@ -33,3 +33,4 @@ install -m644 LICENSE.md %{buildroot}%{_licensedir}/%{name}
 %doc README.md
 %{_datadir}/fonts/TFF/*
 %{_datadir}/licenses/*
+%{_datadir}/doc/fonts-nerd-iosevkatermslab/README.md
